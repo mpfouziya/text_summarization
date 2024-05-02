@@ -19,7 +19,7 @@ def get_requirements(file_path:str)->List[str]:
 
 
 setup(
-    name='text_summarization',
+    name='textsummarization',
     version='0.0.1',
     author='Fousiya',
     author_email='mpfouziya@gmail.com',
